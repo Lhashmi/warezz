@@ -63,6 +63,7 @@ sidebar_label: Movies and TV shows
 
 ## Streaming
 
+- [01streaming](https://www.01streaming.net/) - Voir Films Streaming/Series Streaming/Animes Streaming gratuitement en stream complet HD. 01streaming.net.
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - Reddit with all types of Streaming Links.
 - [Streamlink](https://streamlink.github.io/) - A CLI utility which pipes video streams from various services into a video player.
   - [Streamlink-Twitch-GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink.
