@@ -56,6 +56,7 @@ sidebar_label: Music and podcasts
 
 ## Downloading
 
+- [Youtube Converter to MP3 & MP4](https://mptoro.com/) - Convert and Download Youtube Videos to MP3 and MP4 for Free.
 - [Spotify™ & Deezer™ Music Downloader](https://chrome.google.com/webstore/detail/spotify-deezer-music-down/pocmgnhmjgjghodelfkhbjaoidmbadpo/related)
 - [Soulseek](http://www.soulseekqt.net/news/) - Soulseek is an ad-free, spyware free, just plain free file-sharing network for Windows, Mac, and Linux.
 - [irs](https://github.com/kepoorhampond/irs) - A music downloader that understands your metadata needs.
